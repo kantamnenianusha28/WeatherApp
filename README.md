@@ -1,1 +1,1 @@
-# Stockx
+# WeatherApp
