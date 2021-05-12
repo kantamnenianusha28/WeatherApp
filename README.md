@@ -9,7 +9,7 @@ Steps to run this python script:
 
 2. Set environment variable for GCS 
 
-> export GOOGLE_APPLICATION_CREDENTIALS=<file provided>
+> export GOOGLE_APPLICATION_CREDENTIALS= file provided 
 
 3. Run python script
 
